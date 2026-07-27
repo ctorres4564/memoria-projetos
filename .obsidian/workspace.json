@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/FonoSuite Space/Diário do Projeto.md",
+                "file": "Projetos/Templates/Projeto.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diário do Projeto"
+              "title": "Projeto.md"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c3564bf58646a085",
@@ -198,8 +197,14 @@
   },
   "active": "185fa98e79f25fa8",
   "lastOpenFiles": [
-    "Projetos/FonoSuite Space/Decisões.md",
+    "Projetos/FonoSuite Space/Contexto.md",
+    "Projetos/Templates/Projeto.md.md",
+    "Projetos/Templates/projeto.md/Projeto.md",
+    "Projetos/Templates/Projeto.md",
+    "Projetos/Templates/projeto.md",
+    "Projetos/Templates",
     "Projetos/FonoSuite Space/Diário do Projeto.md",
+    "Projetos/FonoSuite Space/Decisões.md",
     "Projetos/FonoSuite Space/Estado Atual.md",
     "Projetos/FonoSuite Space",
     "Bem-vindo.md",

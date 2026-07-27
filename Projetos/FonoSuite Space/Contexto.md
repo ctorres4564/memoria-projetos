@@ -1,28 +1,27 @@
 # Contexto do Projeto
 
 ## Objetivo
--
-Desenvolver o FonoSuite Space, uma plataforma para organização de projetos, documentação técnica e memória permanente do desenvolvimento, integrada ao GitHub e preparada para servir de contexto para agentes de IA.
-## Situação atual
--
+
+## Visão geral
 
 ## Arquitetura
--
 
 ## Tecnologias
--
+
+## Estrutura de pastas
+
+## Regras importantes
+
+## Decisões estruturais
+
+## Estado atual
+
+Ver [[Estado Atual]]
 
 ## Próximos passos
--
 
-## Decisões importantes
--
+Ver [[Diário do Projeto]]
 
-## Restrições
--
+## Histórico de decisões
 
-## Repositórios
--
-
-## Links úteis
--
+Ver [[Decisões]]

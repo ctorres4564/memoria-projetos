@@ -1,9 +1,43 @@
-## Resumo
 
-## Funcionalidades concluídas
 
-## Decisões importantes
+## Status do projeto
+
+Planejamento
+
+---
+
+## O que já foi concluído
+
+-
+
+---
+
+## O que está em desenvolvimento
+
+-
+
+---
+
+## Próxima tarefa prioritária
+
+-
+
+---
 
 ## Pendências
 
-## Próxima ação
+-
+
+---
+
+## Problemas conhecidos
+
+-
+
+---
+
+## Última atualização
+
+Data:
+Responsável:
+Resumo:

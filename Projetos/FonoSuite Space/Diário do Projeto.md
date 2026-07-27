@@ -1,12 +1,42 @@
 
+
 ## Data
 
-## Alterações realizadas
-Teste de sincronização automática.
+Data:
+Hora:
 
+---
 
-## Problemas encontrados
+## O que foi feito
+
+-
+
+---
+
+## Arquivos alterados
+
+-
+
+---
 
 ## Decisões tomadas
 
-## Próxima ação
+-
+
+---
+
+## Problemas encontrados
+
+-
+
+---
+
+## Próximo passo
+
+-
+
+---
+
+## Observações
+
+-
